@@ -1,6 +1,7 @@
 # HexVelocity - HexGL Clone Racing Game
 
-![HexVelocity Banner](https://via.placeholder.com/1200x400?text=HexVelocity+Racing+Game)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-blue.svg)](https://hexvelocity-hexgl-clone-racing-game.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/SnehaghoshBarsha444/HexVelocity-HexGL-Clone)
 
 ## 🚀 About the Project
 HexVelocity is a high-speed futuristic racing game inspired by HexGL. Built with cutting-edge web technologies, this game delivers an immersive racing experience right in your browser. Compete, drift, and race through challenging tracks while enjoying stunning visuals and smooth gameplay.
